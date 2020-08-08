@@ -7,6 +7,7 @@
   * tcp_socket : tcp 소켓 통신
   * udp_socket : udp 소켓 통신
 
-* ### CPU vs GPU Speed : GPU와 CPU 연산 속도 비교
-  * tensorflow_v1.py : tensorflow 1.x.x 버전
-  * tensorflow_v2.py : tensorflow 2.x.x 버전
+* ### Tensorflow : Tensorflow 관련 
+  * CPU vs GPU Speed : GPU와 CPU 연산 속도 비교
+   * tensorflow_v1.py : tensorflow 1.x.x 버전
+   * tensorflow_v2.py : tensorflow 2.x.x 버전
