@@ -1,7 +1,3 @@
-### [블로그 주소] https://blog.naver.com/dldudcks1779
-### [이메일 주소] dldudcks1779@naver.com
-
----
 ## 디렉터리 설명
 * ### OpenCV : OpenCV 관련 디렉터리
   * socket_frame_tcp : 프레임 tcp 소켓 통신
