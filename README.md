@@ -1,6 +1,19 @@
 ## 디렉터리 설명
 * ### OpenCV : OpenCV 관련 디렉터리
+  * image_flip : 이미지 반전
+  * image_gray : 이미지 흑백 변환
+  * image_incision : 이미지 자르기
+  * image_resize : 이미지 크기 조절
+  * image_rotation : 이미지 회전
+  * image_save : 이미지 저장
   * socket_frame_tcp : 프레임 tcp 소켓 통신
+  * video_flip : 비디오 반전
+  * video_fps : 비디오 FPS
+  * video_gray : 비디오 흑백 변환
+  * video_incision : 비디오 자르기
+  * video_resize : 비디오 크기 조절
+  * video_rotation : 비디오 회전
+  * video_save : 비디오 저장
 
 * ### Socket Programing : 소켓 통신 프로그래밍
   * chatting : tcp 소켓 채팅 프로그램
