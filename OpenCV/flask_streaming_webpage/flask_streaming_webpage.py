@@ -1,3 +1,7 @@
+##### 실행 #####
+# sudo python3 flask_streaming_webpage.py --ip ip 주소 --port port 번호
+# 예) sudo python3 flask_streaming_webpage.py --ip 192.168.1.123 --port 3000
+
 # 필요한 패키지 import
 from flask import Response
 from flask import Flask
