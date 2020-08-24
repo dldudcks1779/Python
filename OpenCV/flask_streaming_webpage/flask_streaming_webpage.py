@@ -6,7 +6,7 @@
 from flask import Response
 from flask import Flask
 from flask import render_template
-import threading
+import threading # 스레드 모듈
 import argparse # 명령행 파싱(인자를 입력 받고 파싱, 예외처리 등) 모듈
 import cv2 # opencv 모듈
 import imutils # 파이썬 OpenCV가 제공하는 기능 중 복잡하고 사용성이 떨어지는 부분을 보완(이미지 또는 비디오 스트림 파일 처리 등)

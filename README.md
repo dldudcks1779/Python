@@ -1,5 +1,6 @@
 ## 디렉터리 설명
 * ### OpenCV : OpenCV 관련 디렉터리
+  * flask_streaming_webpage : flask 스트리밍 웹페이지
   * image_flip : 이미지 반전
   * image_gray : 이미지 흑백 변환
   * image_incision : 이미지 자르기
