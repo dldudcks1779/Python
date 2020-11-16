@@ -1,4 +1,7 @@
 ## 디렉터리 설명
+* ### Basics : 파이썬 기본
+  * change_file_name : 파일(이미지, 텍스트 등) 이름 변경
+  
 * ### OpenCV : OpenCV 관련 디렉터리
   * flask_streaming_webpage : flask 스트리밍 웹페이지
   * image_flip : 이미지 반전
