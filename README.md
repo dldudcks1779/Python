@@ -4,6 +4,7 @@
   * now : 현재 날짜 및 시간(datetime)
   
 * ### OpenCV : OpenCV 관련 디렉터리
+  * color_histogram : 칼라 히스토그램(Color Histogram)
   * flask_streaming_webpage : flask 스트리밍 웹페이지
   * image_flip : 이미지 반전
   * image_gray : 이미지 흑백 변환
