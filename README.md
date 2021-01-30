@@ -12,6 +12,7 @@
   * image_resize : 이미지 크기 조절
   * image_rotation : 이미지 회전
   * image_save : 이미지 저장
+  * k-means_color_clustering : K-평균 색상 클러스터링(K-Means Color Clustering)
   * socket_frame_tcp : 프레임 tcp 소켓 통신
   * video_flip : 비디오 반전
   * video_fps : 비디오 FPS
