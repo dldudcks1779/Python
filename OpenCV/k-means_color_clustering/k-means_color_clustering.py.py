@@ -1,5 +1,5 @@
 ##### 실행 #####
-# sudo python3 k-means_color_clustering.py --image 이미지 경로
+# sudo python3 k-means_color_clustering.py --image 이미지 경로 --clusters 클러스터 수
 # 예) sudo python3 k-means_color_clustering.py --image test1.jpg --clusters 3
 
 # 필요한 패키지 import
