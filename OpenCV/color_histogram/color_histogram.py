@@ -11,7 +11,7 @@ import cv2 # opencv 모듈
 # 실행을 할 때 인자값 추가
 ap = argparse.ArgumentParser()
 # 입력받을 인자값 등록
-ap.add_argument("-i", "--image", required=True, help="image 이미지 경로")
+ap.add_argument("-i", "--image", required=True, help="이미지 경로")
 # 입력받은 인자값을 args에 저장
 args = vars(ap.parse_args())
 
