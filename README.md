@@ -5,6 +5,7 @@
   
 * ### OpenCV : OpenCV 관련 디렉터리
   * color_histogram : 칼라 히스토그램(Color Histogram)
+  * color_quantization : 미니배치 K-평균 색상 클러스터링(Mini-Batch K-Means Color Clustering)을 이용한 색상 정량화(Color Quantization)
   * flask_streaming_webpage : flask 스트리밍 웹페이지
   * image_flip : 이미지 반전
   * image_gray : 이미지 흑백 변환
